@@ -1,0 +1,87 @@
+    1  vim ~/.bash_history 
+    2  git -version
+    3  git
+    4  mvn
+    5  sudo apt update
+    6  mvn
+    7  sudo apt install maven
+    8  mvn
+    9  ls
+   10  sudo apt-get jenkins
+   11  sudo apt-get install jenkins
+   12  wget -q -O - https://pkg.jenkins.io/debian-stable/jenkins.io.key | sudo apt-key add -
+   13  sudo sh -c 'echo deb https://pkg.jenkins.io/debian-stable binary/ > \
+   14      /etc/apt/sources.list.d/jenkins.list'
+   15  sudo apt-get update
+   16  sudo apt-get install jenkins
+   17  systemctl status jenkins
+   18  vim /var/lib/jenkins/secrets/initialAdminPassword
+   19  sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+   20  mvn -v
+   21  ls
+   22  cd Desktop/
+   23  cd ..
+   24  ls
+   25  mkdir maven-java-demo-app
+   26  cd maven-java-demo-app/
+   27  ls
+   28  cd ..
+   29  ls
+   30  git clone https://github.com/saurabhd2106/maven-java-sample-app.git
+   31  ls
+   32  cd maven-java-demo-app/
+   33  ls
+   34  cd ..
+   35  rm maven-java-demo-app/
+   36  rm -r maven-java-demo-app/
+   37  ls
+   38  cd maven-java-sample-app/
+   39  ls
+   40  ls -a
+   41  rm -rf .git
+   42  ls
+   43  mvn clean
+   44  mvn test
+   45  mvn clean
+   46  ls
+   47  cd maven-java-sample-app/
+   48  ls
+   49  vi docker-compose.yml 
+   50  ls
+   51  ls -lrt
+   52  cd src/
+   53  ls
+   54  cd ..
+   55  ls
+   56  clear
+   57  uname -a
+   58  uname -r
+   59  ls
+   60  cd maven-java-sample-app/
+   61  ls
+   62  vim docker-compose.yml 
+   63  cd src/
+   64  ls
+   65  cd ..
+   66  ls
+   67  git init
+   68  git config --list 
+   69  git config --list
+   70  git config --global user.email  "seifeddine.laabidi@esprit.tn"
+   71  git config --global user.name  "saifEddineLaabidi"
+   72  git config --list
+   73  git add .
+   74  git commit -m "upload java maven code"
+   75  git status 
+   76  git remote add origin https://github.com/saifEddineLaabidi/maven-java-sample-app.git
+   77  git push origin 
+   78  git push --set-upstream origin master
+   79  git remote add origin https://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@github.com/saifEddineLaabidi/maven-java-sample-app.git
+   80  git push --set-upstream origin master
+   81  git branch -M master
+   82  git push -uf origin master 
+   83  git remote add origin https://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@github.com/saifEddineLaabidi/maven-java-sample-app.git
+   84  git remote set-url  origin https://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@github.com/saifEddineLaabidi/maven-java-sample-app.git
+   85  git push -uf origin master 
+   86  history 
+   87  history  > saif
